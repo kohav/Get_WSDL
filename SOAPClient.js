@@ -27,6 +27,12 @@
  @notes: first release.
 \*****************************************************************************/
 
+function test()
+{
+	return 5;
+}
+
+
 function SOAPClientParameters()
 {
 	var _pl = new Array();
